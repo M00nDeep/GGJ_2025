@@ -72,3 +72,10 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Ignore packages assets
+Content/Fantastic_Village_Pack/**
+Content/LUSH_StylizedEnvironmentSet/**
+Content/RiverScenes/**
+Content/Corals/**
+Content/Underwater/**
